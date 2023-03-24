@@ -7,7 +7,6 @@
   - 🔭 I’m currently working as a DevOps Engineer in Knoldus, India
   - 🌱 I’m currently learning ELK and Grafana
   - 💬 Ask me about novels and food
-  - 😄 Pronouns: She / Her
   - ⚡ Fun fact: I am a food blogger who loves to code
   
   #### 📫 How to reach me:
