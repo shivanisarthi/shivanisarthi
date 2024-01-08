@@ -4,10 +4,10 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently working as a DevOps Engineer in Knoldus, India
-  - 🌱 I’m currently learning ELK and Grafana
+  - 🔭 I’m currently working as a Senior DevOps Engineer at NashTech, India
+  - 🌱 I’m currently working on Azure, Kubernetes, CI/CD etc
   - 💬 Ask me about novels and food
-  - ⚡ Fun fact: I am a food blogger who loves to code
+  - ⚡ Fun fact: I am a food blogger and a bibliophile who loves to code and watch anime
   
   #### 📫 How to reach me:
   
@@ -32,6 +32,6 @@
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanisarthi&show_icons=true&hide=stars,issues" alt="shivanisarthi" /></p>
+#### <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanisarthi&show_icons=true&hide=stars,issues" alt="shivanisarthi" /></p>
